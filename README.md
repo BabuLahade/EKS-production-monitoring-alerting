@@ -1,4 +1,4 @@
-# DevOps-Enabled Monitoring & Alerting on AWS EKS
+#  Monitoring & Alerting on AWS EKS
 
 ## 📌 Project Overview
 
