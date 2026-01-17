@@ -1,0 +1,6 @@
+aws/
+.aws/
+*.zip
+*.tar.gz
+.env
+
